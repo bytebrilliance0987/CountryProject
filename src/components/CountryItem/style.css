@@ -1,0 +1,15 @@
+.countryItem {
+  width: 24em;
+}
+
+.imageSection img {
+  transition: all .3s ease-in;
+}
+
+.imageSection {
+  height: 14em;
+}
+
+.countryItem p {
+  font-size: 1.2em;
+}

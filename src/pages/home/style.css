@@ -1,0 +1,7 @@
+.paginationSection button {
+  border: 1px solid #ccc;
+}
+
+.selected {
+  background: #4cb1ff;
+}
