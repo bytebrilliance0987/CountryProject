@@ -14,7 +14,7 @@ root.render(
     <BrowserRouter>
       <Routes>
         <Route path='/' element={<Home/>}/>
-        <Route path='/country/:id' element={<Country/>}/>
+        <Route path='/country/:country' element={<Country/>}/>
       </Routes>
     </BrowserRouter>
   </React.StrictMode>
