@@ -1,3 +1,7 @@
+.paginationSection {
+  display: flex;
+  justify-content: center;
+}
 .paginationSection button {
   border: 1px solid #ccc;
 }
